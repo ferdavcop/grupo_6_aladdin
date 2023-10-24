@@ -2,6 +2,7 @@
 
 
 <h2 align="center">Integrantes del grupo:</h2>
+
 - Axel I. Castaño
 - Fernando Copte
 - Sebastián Coria
@@ -14,7 +15,7 @@
 
 <p align="center">
 	<b>Aladdin</b> es una tienda de indumentaria deportiva, principalmente centrada a los jovenes de entre 16 a 30 años, interesados en practicar deporte, y mantener un look moderno mientras lo hacen.
-
+	</br>
 	Nuestro E-Commerce ofrece una gran variedad de prendas, desde camperas, remeras, pantalones, zapatillas, botines y buzos, todos optimizados para ofrecer una sensación agradable al practicar deporte, a un costo competivivo.
 </p>
 
@@ -43,21 +44,21 @@
 <h2 align="center">Wireframe</h2>
 
 <figure>
-	<img src="wireframes/Home.png" alt="Home page"/>
 	<figcaptation>Home page</figcaptation>
+	<img src="wireframes/Home.png" alt="Home page"/>
 </figure>
 
 <figure>
-	<img src="wireframes/Producto.png" alt="Product page"/>
 	<figcaptation>Product page</figcaptation>
+	<img src="wireframes/Producto.png" alt="Product page"/>
 </figure>
 
 <figure>
-	<img src="wireframes/Carrito.png" alt="Shopping Cart page"/>
 	<figcaptation>Shopping cart page</figcaptation>
+	<img src="wireframes/Carrito.png" alt="Shopping Cart page"/>
 </figure>
 
 <figure>
-	<img src="wireframes/User.png" alt="Register/Login page"/>
 	<figcaptation>Register/Login page</figcaptation>
+	<img src="wireframes/User.png" alt="Register/Login page"/>
 </figure>
