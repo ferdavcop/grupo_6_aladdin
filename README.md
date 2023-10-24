@@ -1,28 +1,24 @@
-# Proyecto integrador - Grupo 6 - DigitalHouse
+<h1 align="center">Proyecto integrador - Grupo 6 - DigitalHouse</h1>
 
-Integrantes del grupo:
+
+<h2 align="center">Integrantes del grupo:</h2>
 - Axel I. Castaño
-> 18 años, experiencia menor creando sitios web y aplicaciones de escritorio
 - Fernando Copte
-> Descripción por agregar
 - Sebastián Coria
-> Descripción por agregar
 - Maria Alejandra Sanguedolce
-> Descripción por agregar
 - Mario Campana
-> Descripción por agregar
 - Karen Cordoba
-> Descripción por agregar
 - Victor Taboada
-> Descripción por agregar
 
-# Aladdin - La magia de la indumentaria 
+<h2 align="center">Aladdin - La magia de la indumentaria</h2>
 
-**Aladdin** es una tienda de indumentaria deportiva, principalmente centrada a los jovenes de entre 16 a 30 años, interesados en practicar deporte, y mantener un look moderno mientras lo hacen.
+<p align="center">
+	<b>Aladdin</b> es una tienda de indumentaria deportiva, principalmente centrada a los jovenes de entre 16 a 30 años, interesados en practicar deporte, y mantener un look moderno mientras lo hacen.
 
-Nuestro E-Commerce ofrece una gran variedad de prendas, desde camperas, remeras, pantalones, zapatillas, botines y buzos, todos optimizados para ofrecer una sensación agradable al practicar deporte, a un costo competivivo.
+	Nuestro E-Commerce ofrece una gran variedad de prendas, desde camperas, remeras, pantalones, zapatillas, botines y buzos, todos optimizados para ofrecer una sensación agradable al practicar deporte, a un costo competivivo.
+</p>
 
-# Referencias principales
+<h2 align="center">Referencias principales</h2>
 
 - [Puma](https://ar.puma.com/?utm_source=GGL&utm_medium=BS&gclid=EAIaIQobChMIqMSe2aT2gQMVqVRIAB3WJA4EEAAYASAAEgJqiPD_BwE)
 
@@ -43,3 +39,25 @@ Nuestro E-Commerce ofrece una gran variedad de prendas, desde camperas, remeras,
 - [Nike](https://www.nike.com.ar/?gclid=EAIaIQobChMIz_LY8KT2gQMVcxitBh1Z2QYAEAAYASAAEgLyM_D_BwE)
 
 > *Display de productos, fotos utilizadas y diseño en general de sus banners*
+
+<h2 align="center">Wireframe</h2>
+
+<figure>
+	<img src="wireframes/Home.png" alt="Home page"/>
+	<figcaptation>Home page</figcaptation>
+</figure>
+
+<figure>
+	<img src="wireframes/Producto.png" alt="Product page"/>
+	<figcaptation>Product page</figcaptation>
+</figure>
+
+<figure>
+	<img src="wireframes/Carrito.png" alt="Shopping Cart page"/>
+	<figcaptation>Shopping cart page</figcaptation>
+</figure>
+
+<figure>
+	<img src="wireframes/User.png" alt="Register/Login page"/>
+	<figcaptation>Register/Login page</figcaptation>
+</figure>
